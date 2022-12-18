@@ -1,2 +1,2 @@
 # Portfoolio
-Lõputöö ja testjuhtumite näidised
+Lõputööd ja testjuhtumite näidised
